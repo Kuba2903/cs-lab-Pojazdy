@@ -1,0 +1,12 @@
+C:\Users\bigie\source\repos\Pojazdy\PojazdyLib\bin\Debug\net6.0\PojazdyLib.deps.json
+C:\Users\bigie\source\repos\Pojazdy\PojazdyLib\bin\Debug\net6.0\PojazdyLib.dll
+C:\Users\bigie\source\repos\Pojazdy\PojazdyLib\bin\Debug\net6.0\PojazdyLib.pdb
+C:\Users\bigie\source\repos\Pojazdy\PojazdyLib\obj\Debug\net6.0\PojazdyLib.csproj.AssemblyReference.cache
+C:\Users\bigie\source\repos\Pojazdy\PojazdyLib\obj\Debug\net6.0\PojazdyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigie\source\repos\Pojazdy\PojazdyLib\obj\Debug\net6.0\PojazdyLib.AssemblyInfoInputs.cache
+C:\Users\bigie\source\repos\Pojazdy\PojazdyLib\obj\Debug\net6.0\PojazdyLib.AssemblyInfo.cs
+C:\Users\bigie\source\repos\Pojazdy\PojazdyLib\obj\Debug\net6.0\PojazdyLib.csproj.CoreCompileInputs.cache
+C:\Users\bigie\source\repos\Pojazdy\PojazdyLib\obj\Debug\net6.0\PojazdyLib.dll
+C:\Users\bigie\source\repos\Pojazdy\PojazdyLib\obj\Debug\net6.0\refint\PojazdyLib.dll
+C:\Users\bigie\source\repos\Pojazdy\PojazdyLib\obj\Debug\net6.0\PojazdyLib.pdb
+C:\Users\bigie\source\repos\Pojazdy\PojazdyLib\obj\Debug\net6.0\ref\PojazdyLib.dll
